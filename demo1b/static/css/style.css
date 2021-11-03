@@ -1,0 +1,22 @@
+#h1{
+    background-color: aqua;
+    color: brown;
+    border-color: darkgoldenrod;
+    border-style: dotted;
+    border-width: 2px;
+}
+.h2{
+    background-color: chartreuse;
+    color: brown;
+    border: 1px solid fuchsia;
+    font-size: 60px;
+}
+.bg1{
+    background-image: url("https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg");
+    background-size: cover;
+}
+#h3{
+color: brown;
+text-align: center;
+
+}
